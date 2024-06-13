@@ -1,0 +1,33 @@
+{
+  "name" : "APEX Search Bar",
+  "version" : "1.0.5",
+  "description" : "Search Bar like an e-Commerce => https://github.com/silviosotelo/apex-search-bar/",
+  "keywords" : ["search", "bar", "search-bar"],
+  "homepage" : "https://github.com/silviosotelo/apex-search-bar",
+  "bugs" : {
+    "url" : "https://github.com/silviosotelo/apex-search-bar/issues",
+    "email" : "silvio.sotelo@hotmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Silvio Sotelo",
+    "email" : "silvio.sotelo@hotmail.com",
+    "url"  : "https://github.com/silviosotelo"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/silviosotelo/apex-search-bar"
+  },
+ "oracle" : {
+    "versions" : ["20.0.1", "23.2.4"],
+    "apex" : {
+      "versions" : ["23.2.4"],
+      "plugin" : {
+        "internalName" : "SEARCHBAR",
+        "type" : "DYNAMIC ACTION",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=RWS",
+        "previewImage" : "https://raw.githubusercontent.com/isabolic/apex-plugins/master/mapbox.region.png"       
+      }
+    }
+  }
+}
