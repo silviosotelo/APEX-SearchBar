@@ -18,7 +18,7 @@ APEX Search Bar is a powerful search feature (like on Amazon) to search. It prov
 
 
 ## Preview
-![](https://github.com/silviosotelo/apex-search-bar/blob/main/preview.png)
+![](https://github.com/silviosotelo/apex-search-bar/blob/main/apex-search-bar-preview.gif)
 
 
 ## Install
